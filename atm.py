@@ -1,7 +1,7 @@
 from PIL import Image, ImageTk
 from tkinter import *
 import threading
-import time
+import time  
 import cv2
 import subprocess
 from pynput.keyboard import Key, Listener
