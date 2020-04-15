@@ -10,7 +10,7 @@ import math
 
 # settings
 pag.FAILSAFE = False 
-
+ 
 # default values
 MOUTH_AR_THRESH = 0.3
 MOUTH_AR_CONSECUTIVE_FRAMES = 15 # 20
