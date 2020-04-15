@@ -75,7 +75,7 @@ class ATM:
 		self.btn5 = None
 		self.btn6 = None
 		self.btn7 = None
-		self.btn8 = None
+		self.btn8 = None 
 		self.btn9 = None
 		self.btns = None
 		self.btnh = None
